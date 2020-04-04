@@ -7,5 +7,5 @@ def find_max_value(array)
       check = array[counter]
     end 
   counter += 1 
-end
+  end
 end
